@@ -1,0 +1,27 @@
+﻿  buffer.c
+  hde32.c
+  hde64.c
+  hook.c
+  trampoline.c
+  binfb.cpp
+C:\Users\deltrix\source\repos\Deltrix-od8m\memory.hpp(237,59): warning C4477: 'sprintf_s' : la chaîne de format '%lX' nécessite un argument de type 'unsigned long', mais l'argument variadique 1 est de type 'DWORD_PTR'
+  (compiler le fichier source 'binfb.cpp')
+  C:\Users\deltrix\source\repos\Deltrix-od8m\memory.hpp(237,59):
+  utilisez '%llX' dans la chaîne de format
+  C:\Users\deltrix\source\repos\Deltrix-od8m\memory.hpp(237,59):
+  utilisez '%IX' dans la chaîne de format
+  C:\Users\deltrix\source\repos\Deltrix-od8m\memory.hpp(237,59):
+  utilisez '%I64X' dans la chaîne de format
+  
+  scanner.cpp
+C:\Users\deltrix\source\repos\Deltrix-od8m\scanner\scanner.cpp(51,27): warning C4244: 'argument' : conversion de 'unsigned long' en '_Ty', perte possible de données
+C:\Users\deltrix\source\repos\Deltrix-od8m\scanner\scanner.cpp(51,27): warning C4244:         with
+C:\Users\deltrix\source\repos\Deltrix-od8m\scanner\scanner.cpp(51,27): warning C4244:         [
+C:\Users\deltrix\source\repos\Deltrix-od8m\scanner\scanner.cpp(51,27): warning C4244:             _Ty=int16_t
+C:\Users\deltrix\source\repos\Deltrix-od8m\scanner\scanner.cpp(51,27): warning C4244:         ]
+  Génération de code en cours
+  282 of 289 functions (97.6%) were compiled, the rest were copied from previous compilation.
+    2 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Fin de la génération du code
+  dll ua blocker.vcxproj -> C:\Users\deltrix\Source\Repos\Deltrix-od8m\x64\Release\dll ua blocker.dll

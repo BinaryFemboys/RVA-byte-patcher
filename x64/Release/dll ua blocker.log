@@ -1,0 +1,26 @@
+﻿  buffer.c
+  hde32.c
+  hde64.c
+  hook.c
+  trampoline.c
+  binfb.cpp
+C:\Users\timan\source\repos\Patching RVA\memory.hpp(237,59): warning C4477: 'sprintf_s' : format string '%lX' requires an argument of type 'unsigned long', but variadic argument 1 has type 'DWORD_PTR'
+  (compiling source file 'binfb.cpp')
+  C:\Users\timan\source\repos\Patching RVA\memory.hpp(237,59):
+  consider using '%llX' in the format string
+  C:\Users\timan\source\repos\Patching RVA\memory.hpp(237,59):
+  consider using '%IX' in the format string
+  C:\Users\timan\source\repos\Patching RVA\memory.hpp(237,59):
+  consider using '%I64X' in the format string
+  
+  scanner.cpp
+C:\Users\timan\source\repos\Patching RVA\scanner\scanner.cpp(51,27): warning C4244: 'argument': conversion from 'unsigned long' to '_Ty', possible loss of data
+C:\Users\timan\source\repos\Patching RVA\scanner\scanner.cpp(51,27): warning C4244:         with
+C:\Users\timan\source\repos\Patching RVA\scanner\scanner.cpp(51,27): warning C4244:         [
+C:\Users\timan\source\repos\Patching RVA\scanner\scanner.cpp(51,27): warning C4244:             _Ty=int16_t
+C:\Users\timan\source\repos\Patching RVA\scanner\scanner.cpp(51,27): warning C4244:         ]
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 349 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  dll ua blocker.vcxproj -> C:\Users\timan\source\repos\Patching RVA\x64\Release\dll ua blocker.dll

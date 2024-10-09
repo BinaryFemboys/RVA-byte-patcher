@@ -1,0 +1,7 @@
+C:\Users\timan\source\repos\Patching RVA\minhook\src\buffer.c;C:\Users\timan\source\repos\Patching RVA\x64\Release\buffer.obj
+C:\Users\timan\source\repos\Patching RVA\minhook\src\hde\hde32.c;C:\Users\timan\source\repos\Patching RVA\x64\Release\hde32.obj
+C:\Users\timan\source\repos\Patching RVA\minhook\src\hde\hde64.c;C:\Users\timan\source\repos\Patching RVA\x64\Release\hde64.obj
+C:\Users\timan\source\repos\Patching RVA\minhook\src\hook.c;C:\Users\timan\source\repos\Patching RVA\x64\Release\hook.obj
+C:\Users\timan\source\repos\Patching RVA\minhook\src\trampoline.c;C:\Users\timan\source\repos\Patching RVA\x64\Release\trampoline.obj
+C:\Users\timan\source\repos\Patching RVA\binfb.cpp;C:\Users\timan\source\repos\Patching RVA\x64\Release\binfb.obj
+C:\Users\timan\source\repos\Patching RVA\scanner\scanner.cpp;C:\Users\timan\source\repos\Patching RVA\x64\Release\scanner.obj
